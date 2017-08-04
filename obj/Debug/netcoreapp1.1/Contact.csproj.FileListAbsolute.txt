@@ -1,4 +1,0 @@
-C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\Contact.deps.json
-C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\Contact.runtimeconfig.json
-C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\Contact.runtimeconfig.dev.json
-C:\Users\parks\desktop\address-book\obj\Debug\netcoreapp1.1\Contact.AssemblyInfo.cs
