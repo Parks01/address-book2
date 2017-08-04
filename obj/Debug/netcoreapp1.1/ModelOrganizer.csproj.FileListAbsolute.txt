@@ -1,0 +1,4 @@
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ModelOrganizer.deps.json
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ModelOrganizer.runtimeconfig.json
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ModelOrganizer.runtimeconfig.dev.json
+C:\Users\parks\desktop\address-book\obj\Debug\netcoreapp1.1\ModelOrganizer.AssemblyInfo.cs

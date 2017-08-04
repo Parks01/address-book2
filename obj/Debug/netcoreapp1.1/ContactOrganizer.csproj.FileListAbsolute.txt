@@ -1,0 +1,8 @@
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ContactOrganizer.deps.json
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ContactOrganizer.runtimeconfig.json
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ContactOrganizer.runtimeconfig.dev.json
+C:\Users\parks\desktop\address-book\obj\Debug\netcoreapp1.1\ContactOrganizer.AssemblyInfo.cs
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ContactOrganizer.dll
+C:\Users\parks\desktop\address-book\bin\Debug\netcoreapp1.1\ContactOrganizer.pdb
+C:\Users\parks\desktop\address-book\obj\Debug\netcoreapp1.1\ContactOrganizer.dll
+C:\Users\parks\desktop\address-book\obj\Debug\netcoreapp1.1\ContactOrganizer.pdb

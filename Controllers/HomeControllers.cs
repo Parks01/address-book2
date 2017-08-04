@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using ToDoList.Models;
+using Contact.Models;
 
 namespace Contact.Controllers
 {
@@ -13,27 +13,27 @@ namespace Contact.Controllers
             return View();
         }
 
-        [Route("/contact/list")]
-        public ActionResult ContactList()
-        {
-            List<string> allTasks = Task.GetAll();
-            return View(allTasks);
-        }
+        // [Route("/contact/list")]
+        // public ActionResult ContactList()
+        // {Models
+        //     List<string> allContacts = Contact.GetAll();
+        //     return View(allContacts);
+        // }
+        //
+        // [HttpPost("/clear/list/clear")]
+        // public ActionResult ContactListClear()
+        // {
+        //     Contact.ClearAll();
+        //     return View();
+        // }
 
-        [HttpPost("/clear/list/clear")]
-        public ActionResult TaskListClear()
-        {
-            Task.ClearAll();
-            return View();
-        }
-
-        [HttpPost("/contact/create")]
-        public ActionResult CreateTask()
-        {
+         [HttpPost("/contact/create")]
+         public ActionResult CreateContact()
+         {
             Contact newContact = new Contact (Request.Form["new-contact"]);
             newContact.Save();
             return View(newContact);
-        }
+         }
 
     }
 }
